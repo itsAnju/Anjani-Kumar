@@ -1,4 +1,7 @@
 First repo
 ################
 
-Hello world
+print ("Hello world")
+#
+The iconic line where it all begins.
+
